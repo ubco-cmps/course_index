@@ -1,0 +1,18 @@
+# Table of content
+# Learn more at https://jupyterbook.org/customize/toc.html
+#
+- file: intro
+- part: 2020/21 Term 2
+  chapters:
+  - url: https://firas.moosvi.com/courses/cosc111/about/syllabus.html
+    title: COSC 111
+  - url: https://firas.moosvi.com/courses/cosc123/about/syllabus.html
+    title: COSC 123
+  - url: https://firas.moosvi.com/courses/data301/about/syllabus.html
+    title: DATA 301
+- part: 2020/21 Term 1
+  chapters:
+  - url: https://firas.moosvi.com/courses/2020_WT1/physics111/about/syllabus.html
+    title: Physics 111
+  - url: https://firas.moosvi.com/courses/2020_WT1/data301/about/syllabus.html
+    title: DATA 301
