@@ -4,11 +4,11 @@
 - file: intro
 - part: 2020/21 Term 2
   chapters:
-  - url: https://firas.moosvi.com/courses/cosc111/about/syllabus.html
+  - url: https://firas.moosvi.com/courses/cosc111
     title: COSC 111
-  - url: https://firas.moosvi.com/courses/cosc123/about/syllabus.html
+  - url: https://firas.moosvi.com/courses/cosc123
     title: COSC 123
-  - url: https://firas.moosvi.com/courses/data301/about/syllabus.html
+  - url: https://s225.ok.ubc.ca/courses/2020WT2/data301
     title: DATA 301
 - part: 2020/21 Term 1
   chapters:
