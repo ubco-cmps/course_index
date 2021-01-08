@@ -32,7 +32,7 @@ jobs:
       env:
         REMOTE_HOST: ${{ secrets.REMOTE_HOST_UBCO }}
         REMOTE_USER: ${{ secrets.REMOTE_USER_UBCO }}
-        REMOTE_KEY: ${{ secrets.SERVER_SSH_KEY_UBCO }}
+        REMOTE_KEY: ${{ secrets.SERVER_SSH_KEY }}
         REMOTE_DIR: ${{ secrets.REMOTE_TARGET_UBCO }}
         LOCAL_DIR: "_build/html/"
       run: |
